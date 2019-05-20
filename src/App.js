@@ -11,8 +11,7 @@ import CustomLayout  from './containers/CustomLayout';
 import Landing from './views/Landing';
 import Login from './views/Login';
 import Register from './views/Register';
-
-import Profile from './views/Profile/Profile';
+import Profile from './views/Profile';
 
 const loading = () => <div className="animated fadeIn pt-3 text-center"><div className="sk-spinner sk-spinner-pulse"></div></div>;
 
